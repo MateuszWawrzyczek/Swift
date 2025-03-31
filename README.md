@@ -9,5 +9,8 @@ It was writen in Java (Spring-Boot)
 - PostgreSQL 14+
 - Docker 
 
+## 📋 Start app:
+mvn spring-boot:run -X
+
 ## 🐳 Start app with docker:
 docker-compose up --build -d
