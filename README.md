@@ -12,5 +12,5 @@ It was writen in Java (Spring-Boot)
 ## 📋 Start app:
 mvn spring-boot:run -X
 
-## 🐳 Start app with docker:
+## 🐳 Start docker:
 docker-compose up --build -d
